@@ -1,11 +1,22 @@
 ---
-title: "fionacandland.notgithubfile"
+title: "Fiona Candland"
+about:
+  id: intro-heading
+  template: marquee
+  image: profilepic.jpg
+
+
 ---
 
-This is a Quarto website.
+:::{#intro-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! My name is Fiona and I love cats, dresses, sewing, and laying in the sun.
 
-```{r}
-1 + 1
-```
+## Education
+
+Macalester College | St. Paul MN <br>
+B.A. in English and Data Science | Sept 2022 - May 2026
+
+:::
+
+
